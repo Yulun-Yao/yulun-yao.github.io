@@ -67,3 +67,5 @@ user_groups:
 Yulun Yao is a 4th-year undergraduate student in Computer Science at University of Illinois at Urbana-Champaign. His research interests include Machine Learning Systems and Software Defined Computer Architecture. He is advised by Prof.Christopher W. Fletcher at University of Illinois at Urbana-Champaign. During Summer 2019, he is a Summer Research Intern at SAMPL lab at University Of Washington and advised by Prof. Luis Ceze.
 
 He is applying for graduate school for fall 2020 and is seeking a PhD position.
+
+This page is not up-to-date.
