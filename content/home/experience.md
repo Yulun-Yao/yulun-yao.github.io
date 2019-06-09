@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Undergraduate Research Assistant"
+  company = "University Of Washington"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Seattle, WA"
+  date_start = "2019-06-07"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Supervisor: Prof. Luis Ceze
+  (https://homes.cs.washington.edu/~luisceze/)
+  * Currently working on TVM, an end-to-end deep learning compiler stack.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Research Assistant"
+  company = "University Of Illinois At Urbana-Champaign"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Champaign, IL"
+  date_start = "2017-12-10"
+  date_end = ""
+  description = """
+  Supervisor: Prof. Christopher W. Fletcher
+  (http://cwfletcher.net/)
+  * Worked on MORPH, a Hardware-Software codesign for 3D DNN acceleration
+  * Worked on CPUCNN, a Software Kernel to accelerate DNN inference by exploiting weight repetition"""
 
 +++
