@@ -70,4 +70,4 @@ Yulun Yao is a 4th-year undergraduate student in Computer Science at University 
 
 He is applying for graduate school for fall 2020 and is seeking a PhD position.
 
-This page is not up-to-date.
+This page is under construction. See CV on left hand side for details.
