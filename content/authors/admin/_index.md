@@ -14,22 +14,21 @@ role: 4th Year Undergraduate Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: University Of Illinois At Urbana-Champaign
-  url: ""
+- name: University of Illinois at Urbana-Champaign
+  url: "http://cs.illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Computer Architecture
-- Machine Learning Systems
-- Software Defined Architecture
+- Machine Learning System
 
 education:
   courses:
   - course: BSc in Computer Science
-    institution: University Of Illinois At Urbana-Champaign
-    year: 2019
+    institution: University of Illinois at Urbana-Champaign
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,6 +41,15 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.com/citations?hl=en&user=p1q9KsEAAAAJ'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/yulun-yao-47624bb7/'
+- icon: github
+  icon_pack: fab
+  link: 'https://github.com/yuluny2'
 
 # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
@@ -70,4 +78,4 @@ Yulun Yao is a 4th-year undergraduate student in Computer Science at University 
 
 He is applying for graduate school for fall 2020 and is seeking a PhD position.
 
-This page is under construction. See CV on the left hand side for details.
+This page is not yet completed. Please download CV on the left hand side for more details.
