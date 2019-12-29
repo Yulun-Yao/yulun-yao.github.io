@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: 4th Year Undergraduate Student in Computer Science
+role: 4th Year Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: "http://cs.illinois.edu/"
+  url: "https://cs.illinois.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 - Computer Architecture
-- Machine Learning System
+- Machine Learning Systems
 
 education:
   courses:
@@ -74,8 +74,8 @@ user_groups:
 #- Visitors
 ---
 
-Yulun Yao is a 4th-year undergraduate student in Computer Science at University of Illinois at Urbana-Champaign. His research interests include Machine Learning Systems and Domain-Specific Computer Architecture. He is a proud member of FPSG (undefined word) and is advised by Prof.Christopher W. Fletcher at University of Illinois at Urbana-Champaign. During Summer 2019, he is a Summer Research Intern at SAMPL lab at University Of Washington and is advised by Prof. Luis Ceze.
+Yulun Yao is a senior undergraduate student in [Computer Science at University of Illinois at Urbana-Champaign](https://cs.illinois.edu/). His research interests include Machine Learning Systems and performance-centric Computer Architecture. He is a proud member of FPSG and is advised by [Prof.Christopher W. Fletcher](http://cwfletcher.net/) at University of Illinois at Urbana-Champaign. He was a summer research intern at [SAMPL lab at University Of Washington](https://sampl.cs.washington.edu/) and is advised by [Prof. Luis Ceze](https://www.cs.washington.edu/people/faculty/luisceze).
 
-He is applying for graduate school for fall 2020 and is seeking a PhD position.
+He is applying for PhD programs starting from fall 2020.
 
-This page is not yet completed. Please download CV on the left hand side for more details.
+Take a look at his [latest Curriculum Vitae](https://yulunyao.io/files/cv.pdf).
